@@ -68,4 +68,4 @@ I also extensively used **ChatGPT** to learn and troubleshoot as these topics we
 ### **Steps to Run the Project**  
 1. Clone the repository:  
    ```bash  
-   git clone <[repository-link](https://github.com/Savyasachi-2005/StudentMessComplaintApp)>  
+   git clone <https://github.com/Savyasachi-2005/StudentMessComplaintApp>  
